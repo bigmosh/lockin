@@ -3,11 +3,11 @@
 A virtual coworking platform that enables users to create, discover, and join recurring Google Meet study/build/focus rooms.
 
 ## Contributors
-Sanni Moshood - Team Lead/Cordinator Backend engineer
-Ashaolu Oluwatobiloba - Frontend developer
-Jo-ann Obewe - Ui design
-Naimot Yekini - Ui design
-Omofolarin Adebola - Frontend developer
+- Sanni Moshood - Team Lead/Cordinator Backend engineer
+- Ashaolu Oluwatobiloba - Frontend developer
+- Jo-ann Obewe - Ui design
+- Naimot Yekini - Ui design
+- Omofolarin Adebola - Frontend developer
 
 ## Project Structure
 
