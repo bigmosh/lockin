@@ -29,3 +29,8 @@ Thumbs.db
 
 # Database
 mysql_data/
+
+# Public assets (avoid pushing large binaries)
+frontend/public/images/
+frontend/public/videos/
+frontend/public/files/
